@@ -1,0 +1,288 @@
+
+skins.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+black_bg_with_border
+  rotate: false
+  xy: 1, 366
+  size: 130, 130
+  split: 17, 19, 17, 19
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+gray_bg_with_border
+  rotate: false
+  xy: 1, 234
+  size: 130, 130
+  split: 17, 21, 17, 19
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+black_bg_with_top_border
+  rotate: false
+  xy: 133, 368
+  size: 128, 128
+  split: 0, 128, 3, 0
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+blue_bg
+  rotate: false
+  xy: 1, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dark_gray_bg
+  rotate: false
+  xy: 133, 238
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+whiteBackground
+  rotate: false
+  xy: 263, 368
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BlackBackground
+  rotate: false
+  xy: 263, 240
+  size: 126, 126
+  split: 15, 15, 15, 15
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+ButtonOff
+  rotate: false
+  xy: 133, 110
+  size: 126, 126
+  split: 15, 15, 15, 15
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+ButtonOn
+  rotate: false
+  xy: 263, 112
+  size: 126, 126
+  split: 15, 15, 15, 15
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+move
+  rotate: false
+  xy: 1, 51
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+moveOff
+  rotate: false
+  xy: 393, 445
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+brush
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+brushOff
+  rotate: false
+  xy: 55, 54
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+eraser
+  rotate: false
+  xy: 393, 395
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+eraserOff
+  rotate: false
+  xy: 447, 448
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Close
+  rotate: false
+  xy: 393, 363
+  size: 62, 30
+  split: 7, 7, 0, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+hide
+  rotate: false
+  xy: 391, 313
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redoOff
+  rotate: false
+  xy: 391, 263
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redoOn
+  rotate: false
+  xy: 391, 213
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 391, 163
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+show
+  rotate: false
+  xy: 391, 113
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+undoOff
+  rotate: false
+  xy: 105, 54
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+undoOn
+  rotate: false
+  xy: 155, 60
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Down
+  rotate: false
+  xy: 205, 78
+  size: 62, 30
+  split: 7, 7, 3, 3
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+GrayBackground
+  rotate: false
+  xy: 269, 80
+  size: 62, 30
+  split: 7, 7, 3, 3
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+StartSegmentation
+  rotate: false
+  xy: 333, 80
+  size: 62, 30
+  split: 7, 7, 3, 3
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+adjust
+  rotate: false
+  xy: 397, 79
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+checkboxOff
+  rotate: false
+  xy: 205, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+checkboxOn
+  rotate: false
+  xy: 239, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+config
+  rotate: false
+  xy: 273, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+zoom_in
+  rotate: false
+  xy: 307, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+zoom_out
+  rotate: false
+  xy: 341, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BlackButton
+  rotate: false
+  xy: 441, 337
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+BlueButton
+  rotate: false
+  xy: 441, 311
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 441, 285
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+PurpleButton
+  rotate: false
+  xy: 441, 259
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+RedButton
+  rotate: false
+  xy: 441, 233
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+remove
+  rotate: false
+  xy: 441, 207
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+WhiteButton
+  rotate: false
+  xy: 441, 181
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

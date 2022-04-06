@@ -1,0 +1,303 @@
+
+images.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blackBackground
+  rotate: false
+  xy: 1, 944
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 36, 944
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+buttonPressed
+  rotate: false
+  xy: 71, 944
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+whiteBackground
+  rotate: false
+  xy: 106, 944
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+windowBackground
+  rotate: false
+  xy: 141, 944
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+checkboxOff
+  rotate: false
+  xy: 176, 937
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+checkboxOn
+  rotate: false
+  xy: 210, 937
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+config
+  rotate: false
+  xy: 244, 937
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+adjustScreen
+  rotate: false
+  xy: 278, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+colorBlack
+  rotate: false
+  xy: 344, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+colorBlue
+  rotate: false
+  xy: 410, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+colorPurple
+  rotate: false
+  xy: 476, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+colorRed
+  rotate: false
+  xy: 542, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+colorWhite
+  rotate: false
+  xy: 608, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zoomIn
+  rotate: false
+  xy: 674, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zoomOut
+  rotate: false
+  xy: 740, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+buttonOff
+  rotate: false
+  xy: 806, 899
+  size: 200, 70
+  orig: 200, 70
+  offset: 0, 0
+  index: -1
+buttonOn
+  rotate: false
+  xy: 1, 865
+  size: 200, 70
+  orig: 200, 70
+  offset: 0, 0
+  index: -1
+diskette
+  rotate: false
+  xy: 203, 775
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+compare
+  rotate: false
+  xy: 333, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hide
+  rotate: false
+  xy: 591, 641
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+left-arrow
+  rotate: false
+  xy: 1, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+loupe
+  rotate: false
+  xy: 259, 389
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+loupeOff
+  rotate: false
+  xy: 517, 383
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+move
+  rotate: false
+  xy: 1, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moveOff
+  rotate: false
+  xy: 259, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 517, 125
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+redo
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+images2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+down-arrow
+  rotate: false
+  xy: 1, 261
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+redoOff
+  rotate: false
+  xy: 1, 3
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+remove
+  rotate: false
+  xy: 515, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+right-arrow
+  rotate: false
+  xy: 259, 3
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+show
+  rotate: false
+  xy: 517, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+undo
+  rotate: false
+  xy: 517, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+images3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eraser
+  rotate: false
+  xy: 1, 259
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+undoOff
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+images4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eraserOff
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+images5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+paintbrush
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+images6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+paintbrushOff
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
